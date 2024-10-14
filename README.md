@@ -1,6 +1,10 @@
 <h1 align="center">Hola, me llamo Jack</h1>
 <h3 align="center">Programador especializado en BDD</h3>
 
+<!-- GIF de Jack Sparrow -->
+<p align="center">
+  <img src="https://tenor.com/view/pirates-des-caraibes-pirates-of-the-caribbean-jack-sparrow-navigation-gif-19449364" alt="Jack Sparrow GIF" width="400"/>
+</p>
 
 <h3 align="left">Languages y tecnologias:</h3>
 
@@ -95,10 +99,3 @@
   </a>
 </p>
 
-<!-- Testing -->
-<h4 align="left">Testing:</h4>
-<p align="left">
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-</p>
