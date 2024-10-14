@@ -3,7 +3,7 @@
 
 <!-- GIF de Jack Sparrow -->
 <p align="center">
-  <img src="https://giphy.com/explore/pirates-of-the-caribean?sort=recent/giphy.gif" alt="Jack Sparrow GIF" width="400"/>
+  <img src="https://media.giphy.com/media/QtQF63jPA6eR2/giphy.gif?cid=ecf05e479lzvobsereaqj10s4hixaqegn6nysn8zhofxfhlh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Jack Sparrow GIF" width="400"/>
 </p>
 
 <h3 align="left">Languages y tecnologias:</h3>
