@@ -1,5 +1,5 @@
-<h1 align="center">Hola, me llamo Jack</h1>
-<h3 align="center">Programador especializado en BDD</h3>
+<h1 align="center">Hi, me llamo Jack</h1>
+<h3 align="center">Dev/DBA</h3>
 
 <!-- GIF de Jack Sparrow -->
 <p align="center">
