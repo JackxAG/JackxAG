@@ -3,7 +3,7 @@
 
 <!-- GIF de Jack Sparrow -->
 <p align="center">
-  <img src="https://touravent.ru/jack-sparrow-hat-gif-k.html" alt="Jack Sparrow GIF" width="400"/>
+  <img src="https://www.pinterest.com/ideas/jack-sparrow-gif/900864100522/" alt="Jack Sparrow GIF" width="400"/>
 </p>
 
 <h3 align="left">Languages y tecnologias:</h3>
